@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Akash Singh
-**A passionate software Engineer from India**
+**A passionate Software Engineer from India**
 
 Email Me 👉 ✉️ **akrawat0056@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
