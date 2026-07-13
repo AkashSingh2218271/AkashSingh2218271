@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **akrawat0056@gmail.com** For Collaboration/Project or Anyt
 - 👯 **I’m looking to collaborate on:** 
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** akrawat0056@gmail.com**
+- 📫 **How to reach me:** akrawat0056@gmail.com
 - ⚡ **Fun fact:** I Love Tech
 
 ## 🏆 GitHub Trophies
