@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **akrawat0056@gmail.com** For Collaboration/Project or Anyt
 ![](https://github-profile-trophy.vercel.app/?username=AkashSingh2218271&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/akash singh ](https://www.linkedin.com/in/akash-singh-962002217/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)(mailto:akrawat0056@gmail.com)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-singh-962002217/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akrawat0056@gmail.com)
 <!-- Snake Game Repo View -->
 
 <div align="center">
